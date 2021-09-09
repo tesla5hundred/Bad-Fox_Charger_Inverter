@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IFALHXGM
 
 [Document7]
-DocumentPath=..\..\kron-library\Kron Library.PCBLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RSWBVTRU
-
-[Document8]
 DocumentPath=..\..\kron-library\Kron Library.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
