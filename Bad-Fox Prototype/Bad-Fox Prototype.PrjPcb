@@ -156,6 +156,51 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVFDOTEV
 
+[ProjectVariant1]
+UniqueID=C5D90D8E-4388-421A-B3BC-88AEDB25C124
+Description=Prototype
+AllowFabrication=0
+ParameterCount=0
+VariationCount=33
+Variation1=Designator=C8|UniqueId=\GRAAABXF|Kind=1|AlternatePart= 
+Variation2=Designator=C9|UniqueId=\VCLZOLXI|Kind=1|AlternatePart= 
+Variation3=Designator=C10|UniqueId=\XOOBKMHZ|Kind=1|AlternatePart= 
+Variation4=Designator=C11|UniqueId=\UBJFYFUM|Kind=1|AlternatePart= 
+Variation5=Designator=C16|UniqueId=\NLCOPVVB|Kind=1|AlternatePart= 
+Variation6=Designator=C17|UniqueId=\RANBARRN|Kind=1|AlternatePart= 
+Variation7=Designator=L3|UniqueId=\CMPCBUMW|Kind=1|AlternatePart= 
+Variation8=Designator=L2|UniqueId=\RGPCGOHA|Kind=1|AlternatePart= 
+Variation9=Designator=L1|UniqueId=\EGWCBLVW|Kind=1|AlternatePart= 
+Variation10=Designator=P1|UniqueId=\NQKNMSUT|Kind=1|AlternatePart= 
+Variation11=Designator=P5|UniqueId=\COKWAKCP|Kind=1|AlternatePart= 
+Variation12=Designator=C52|UniqueId=\HCCSPKFV|Kind=1|AlternatePart= 
+Variation13=Designator=C53|UniqueId=\VDKQBLIO|Kind=1|AlternatePart= 
+Variation14=Designator=C54|UniqueId=\USIKNAMW|Kind=1|AlternatePart= 
+Variation15=Designator=C3|UniqueId=\NUYIUFGV|Kind=1|AlternatePart= 
+Variation16=Designator=C5|UniqueId=\ZPDJWYEE|Kind=1|AlternatePart= 
+Variation17=Designator=C7|UniqueId=\JRTBKFPN|Kind=1|AlternatePart= 
+Variation18=Designator=C4|UniqueId=\GHKWCBTN|Kind=1|AlternatePart= 
+Variation19=Designator=C6|UniqueId=\SFTHZXYL|Kind=1|AlternatePart= 
+Variation20=Designator=C2|UniqueId=\OJMXOFVF|Kind=1|AlternatePart= 
+Variation21=Designator=P8|UniqueId=\MMPGBHDZ|Kind=1|AlternatePart= 
+Variation22=Designator=P7|UniqueId=\YMIVAUIT|Kind=1|AlternatePart= 
+Variation23=Designator=P6|UniqueId=\SKHAZPXW|Kind=1|AlternatePart= 
+Variation24=Designator=P4|UniqueId=\YNZYKPVR|Kind=1|AlternatePart= 
+Variation25=Designator=P3|UniqueId=\YDSUPOJD|Kind=1|AlternatePart= 
+Variation26=Designator=P2|UniqueId=\QLLVDBMD|Kind=1|AlternatePart= 
+Variation27=Designator=RL7|UniqueId=\YYYGFLWN|Kind=1|AlternatePart= 
+Variation28=Designator=RL6|UniqueId=\MYCAGDXA|Kind=1|AlternatePart= 
+Variation29=Designator=RL5|UniqueId=\XTELVBNK|Kind=1|AlternatePart= 
+Variation30=Designator=RL4|UniqueId=\ERYRYNIW|Kind=1|AlternatePart= 
+Variation31=Designator=RL3|UniqueId=\RADWFRKQ|Kind=1|AlternatePart= 
+Variation32=Designator=RL2|UniqueId=\VCYHEYEJ|Kind=1|AlternatePart= 
+Variation33=Designator=U8|UniqueId=\WIWJGIDF|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Bad-Fox Prototype\Design Rule Check - Bad-Fox Prototype.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -275,7 +320,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=KM-CEC
+TargetPrinter=HP Color LaserJet 3600
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
