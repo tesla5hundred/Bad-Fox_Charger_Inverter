@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Bad-Fox Prototype
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,6 +156,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVFDOTEV
 
+[Document8]
+DocumentPath=Board.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=C5D90D8E-4388-421A-B3BC-88AEDB25C124
 Description=Prototype
@@ -198,7 +215,87 @@ Variation33=Designator=U8|UniqueId=\WIWJGIDF|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Bad-Fox Prototype\Design Rule Check - Bad-Fox Prototype.html
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\NC Drill\Bad-Fox Prototype-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\NC Drill\Bad-Fox Prototype.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\NC Drill\Bad-Fox Prototype.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Gerber\Bad-Fox Prototype.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\NC Drill\Bad-Fox Prototype.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Bad-Fox Prototype\PCB Fabrication\Pick Place\Pick Place for Bad-Fox Prototype(Prototype).txt
 DItemRevisionGUID=
 
 [Configuration1]
@@ -210,6 +307,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for Bad-Fox Prototype
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -320,7 +420,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Color LaserJet 3600
+TargetPrinter=KM-CEC
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
