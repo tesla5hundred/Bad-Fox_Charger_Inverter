@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Board.OutJob
 Description=
-TargetOutputMedium=Assembly Drawings
+TargetOutputMedium=BOM
 VariantName=Prototype
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP Color LaserJet 3600
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -76,7 +76,7 @@ OutputName3=Assembly Drawings
 OutputCategory3=Assembly
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=4
 OutputEnabled3_OutputMedium3=0
@@ -192,7 +192,7 @@ OutputName8=Bill of Materials
 OutputCategory8=Report
 OutputDocumentPath8=
 OutputVariantName8=Prototype
-OutputEnabled8=0
+OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
@@ -205,15 +205,15 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration8_Name1=ColumnNameFormat
 Configuration8_Item1=CaptionAsName
 Configuration8_Name2=General
-Configuration8_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=X:\Work\kron-library\Kron BOM Template.xlt|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=2105|FormHeight=1215|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration8_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Work\kron-library\Kron BOM Template.xlt|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1461|FormHeight=979|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration8_Name3=GroupOrder
-Configuration8_Item3=
+Configuration8_Item3=Mfgr P/N=True|Manufacturer Part Number=True
 Configuration8_Name4=SortOrder
-Configuration8_Item4=Designator=Up|Footprint=Up
+Configuration8_Item4=Description=Up
 Configuration8_Name5=VisibleOrder
-Configuration8_Item5=Description=314|Designator=82|Item Number=81|Footprint=218|Dist=65|Dist P/N=192|Mfg=122|Mfgr P/N=158|Price=49|Quantity=56
+Configuration8_Item5=Description=314|Designator=341|Item Number=81|Footprint=218|Dist=65|Dist P/N=192|Mfg=122|Mfgr P/N=158|Price=49|Quantity=56|Manufacturer=100|Manufacturer Part Number=100
 Configuration8_Name6=VisibleOrder_Flat
-Configuration8_Item6=Description=314|Designator=82|Item Number=81|Footprint=218|Dist=65|Dist P/N=192|Mfg=122|Mfgr P/N=158|Price=49|Quantity=56
+Configuration8_Item6=Description=314|Designator=341|Item Number=81|Footprint=218|Dist=65|Dist P/N=192|Mfg=122|Mfgr P/N=158|Price=49|Quantity=56|Manufacturer=100|Manufacturer Part Number=100
 OutputType9=PCB Print
 OutputName9=MidLayer 1
 OutputCategory9=Documentation
