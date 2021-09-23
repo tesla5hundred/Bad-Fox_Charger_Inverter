@@ -214,6 +214,10 @@ Variation32=Designator=RL2|UniqueId=\VCYHEYEJ|Kind=1|AlternatePart=
 Variation33=Designator=U8|UniqueId=\WIWJGIDF|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Bad-Fox Prototype\Design Rule Check - Bad-Fox Prototype.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
