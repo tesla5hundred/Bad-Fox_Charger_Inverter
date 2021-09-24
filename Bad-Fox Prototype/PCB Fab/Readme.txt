@@ -56,8 +56,7 @@ Bad-Fox Prototype.GBS		Gerber, Bottom Solder mask
 Bad-Fox Prototype.GTP		Gerber, Top Solder paste
 Bad-Fox Prototype.GBP		Gerber, Bottom Solder paste
 
-Bad-Fox Prototype.GM3		Gerber, Board outline routing
-Bad-Fox Prototype.gd1		Drill file
-Bad-Fox Prototype.gg1		Drill guide
+Bad-Fox Prototype.GM1		Gerber, Board outline routing
 
 Bad-Fox Prototype.TXT		NC Drill: Excellon drill file
+Bad-Fox Prototype-RectHoles.TXT	NC Drill: Excellon drill file for square holes
